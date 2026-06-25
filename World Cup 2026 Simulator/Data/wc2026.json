@@ -1,0 +1,348 @@
+{
+  "source": "FIFA/Coca-Cola World Ranking + Transfermarkt",
+  "date": "2026-06-15",
+  "tournament": "FIFA World Cup 2026",
+  "total_teams": 48,
+  "fields": {
+    "fifa_points": "рейтингові очки ФІФА (червень 2026)",
+    "squad_value_eur_m": "ринкова вартість складу в млн € (Transfermarkt, червень 2026)"
+  },
+  "teams": [
+    {
+      "team": "Argentina",
+      "code": "ARG",
+      "group": "J",
+      "fifa_points": 1876.12,
+      "squad_value_eur_m": 799.5
+    },
+    {
+      "team": "Spain",
+      "code": "ESP",
+      "group": "H",
+      "fifa_points": 1873.01,
+      "squad_value_eur_m": 1220.0
+    },
+    {
+      "team": "France",
+      "code": "FRA",
+      "group": "I",
+      "fifa_points": 1869.43,
+      "squad_value_eur_m": 1550.0
+    },
+    {
+      "team": "England",
+      "code": "ENG",
+      "group": "L",
+      "fifa_points": 1827.05,
+      "squad_value_eur_m": 1370.0
+    },
+    {
+      "team": "Portugal",
+      "code": "POR",
+      "group": "K",
+      "fifa_points": 1766.18,
+      "squad_value_eur_m": 1010.0
+    },
+    {
+      "team": "Brazil",
+      "code": "BRA",
+      "group": "C",
+      "fifa_points": 1765.86,
+      "squad_value_eur_m": 943.2
+    },
+    {
+      "team": "Morocco",
+      "code": "MAR",
+      "group": "C",
+      "fifa_points": 1756.94,
+      "squad_value_eur_m": 490.3
+    },
+    {
+      "team": "Netherlands",
+      "code": "NED",
+      "group": "F",
+      "fifa_points": 1751.1,
+      "squad_value_eur_m": 814.2
+    },
+    {
+      "team": "Belgium",
+      "code": "BEL",
+      "group": "G",
+      "fifa_points": 1742.24,
+      "squad_value_eur_m": 550.7
+    },
+    {
+      "team": "Germany",
+      "code": "GER",
+      "group": "E",
+      "fifa_points": 1735.77,
+      "squad_value_eur_m": 982.0
+    },
+    {
+      "team": "Croatia",
+      "code": "CRO",
+      "group": "L",
+      "fifa_points": 1712.24,
+      "squad_value_eur_m": 387.7
+    },
+    {
+      "team": "Colombia",
+      "code": "COL",
+      "group": "K",
+      "fifa_points": 1695.99,
+      "squad_value_eur_m": 302.65
+    },
+    {
+      "team": "Mexico",
+      "code": "MEX",
+      "group": "A",
+      "fifa_points": 1687.48,
+      "squad_value_eur_m": 193.85
+    },
+    {
+      "team": "Senegal",
+      "code": "SEN",
+      "group": "I",
+      "fifa_points": 1686.41,
+      "squad_value_eur_m": 478.3
+    },
+    {
+      "team": "Uruguay",
+      "code": "URU",
+      "group": "H",
+      "fifa_points": 1673.07,
+      "squad_value_eur_m": 392.3
+    },
+    {
+      "team": "USA",
+      "code": "USA",
+      "group": "D",
+      "fifa_points": 1671.23,
+      "squad_value_eur_m": 385.65
+    },
+    {
+      "team": "Japan",
+      "code": "JPN",
+      "group": "F",
+      "fifa_points": 1661.58,
+      "squad_value_eur_m": 280.85
+    },
+    {
+      "team": "Switzerland",
+      "code": "SUI",
+      "group": "B",
+      "fifa_points": 1650.06,
+      "squad_value_eur_m": 332.6
+    },
+    {
+      "team": "IR Iran",
+      "code": "IRN",
+      "group": "G",
+      "fifa_points": 1619.58,
+      "squad_value_eur_m": 32.05
+    },
+    {
+      "team": "Türkiye",
+      "code": "TUR",
+      "group": "D",
+      "fifa_points": 1605.73,
+      "squad_value_eur_m": 473.7
+    },
+    {
+      "team": "Austria",
+      "code": "AUT",
+      "group": "J",
+      "fifa_points": 1597.4,
+      "squad_value_eur_m": 231.7
+    },
+    {
+      "team": "Ecuador",
+      "code": "ECU",
+      "group": "E",
+      "fifa_points": 1596.48,
+      "squad_value_eur_m": 368.7
+    },
+    {
+      "team": "Korea Republic",
+      "code": "KOR",
+      "group": "A",
+      "fifa_points": 1591.63,
+      "squad_value_eur_m": 139.05
+    },
+    {
+      "team": "Australia",
+      "code": "AUS",
+      "group": "D",
+      "fifa_points": 1579.34,
+      "squad_value_eur_m": 77.65
+    },
+    {
+      "team": "Algeria",
+      "code": "ALG",
+      "group": "J",
+      "fifa_points": 1571.03,
+      "squad_value_eur_m": 256.9
+    },
+    {
+      "team": "Egypt",
+      "code": "EGY",
+      "group": "G",
+      "fifa_points": 1562.37,
+      "squad_value_eur_m": 116.98
+    },
+    {
+      "team": "Canada",
+      "code": "CAN",
+      "group": "B",
+      "fifa_points": 1559.48,
+      "squad_value_eur_m": 197.65
+    },
+    {
+      "team": "Norway",
+      "code": "NOR",
+      "group": "I",
+      "fifa_points": 1555.6,
+      "squad_value_eur_m": 592.0
+    },
+    {
+      "team": "Côte d'Ivoire",
+      "code": "CIV",
+      "group": "E",
+      "fifa_points": 1540.87,
+      "squad_value_eur_m": 522.1
+    },
+    {
+      "team": "Panama",
+      "code": "PAN",
+      "group": "L",
+      "fifa_points": 1539.16,
+      "squad_value_eur_m": 34.55
+    },
+    {
+      "team": "Sweden",
+      "code": "SWE",
+      "group": "F",
+      "fifa_points": 1509.79,
+      "squad_value_eur_m": 406.58
+    },
+    {
+      "team": "Czechia",
+      "code": "CZE",
+      "group": "A",
+      "fifa_points": 1505.74,
+      "squad_value_eur_m": 188.18
+    },
+    {
+      "team": "Paraguay",
+      "code": "PAR",
+      "group": "D",
+      "fifa_points": 1505.35,
+      "squad_value_eur_m": 153.65
+    },
+    {
+      "team": "Scotland",
+      "code": "SCO",
+      "group": "C",
+      "fifa_points": 1503.34,
+      "squad_value_eur_m": 170.23
+    },
+    {
+      "team": "Congo DR",
+      "code": "COD",
+      "group": "K",
+      "fifa_points": 1479.68,
+      "squad_value_eur_m": 144.1
+    },
+    {
+      "team": "Tunisia",
+      "code": "TUN",
+      "group": "F",
+      "fifa_points": 1476.41,
+      "squad_value_eur_m": 69.95
+    },
+    {
+      "team": "Uzbekistan",
+      "code": "UZB",
+      "group": "K",
+      "fifa_points": 1461.21,
+      "squad_value_eur_m": 85.33
+    },
+    {
+      "team": "Iraq",
+      "code": "IRQ",
+      "group": "I",
+      "fifa_points": 1451.15,
+      "squad_value_eur_m": 21.2
+    },
+    {
+      "team": "Qatar",
+      "code": "QAT",
+      "group": "B",
+      "fifa_points": 1450.31,
+      "squad_value_eur_m": 19.93
+    },
+    {
+      "team": "South Africa",
+      "code": "RSA",
+      "group": "A",
+      "fifa_points": 1428.38,
+      "squad_value_eur_m": 49.25
+    },
+    {
+      "team": "Saudi Arabia",
+      "code": "KSA",
+      "group": "H",
+      "fifa_points": 1421.54,
+      "squad_value_eur_m": 40.68
+    },
+    {
+      "team": "Jordan",
+      "code": "JOR",
+      "group": "J",
+      "fifa_points": 1390.1,
+      "squad_value_eur_m": 20.5
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "code": "BIH",
+      "group": "B",
+      "fifa_points": 1387.22,
+      "squad_value_eur_m": 151.6
+    },
+    {
+      "team": "Cabo Verde",
+      "code": "CPV",
+      "group": "H",
+      "fifa_points": 1371.11,
+      "squad_value_eur_m": 57.5
+    },
+    {
+      "team": "Ghana",
+      "code": "GHA",
+      "group": "L",
+      "fifa_points": 1346.88,
+      "squad_value_eur_m": 237.95
+    },
+    {
+      "team": "Curaçao",
+      "code": "CUW",
+      "group": "E",
+      "fifa_points": 1294.77,
+      "squad_value_eur_m": 25.78
+    },
+    {
+      "team": "Haiti",
+      "code": "HAI",
+      "group": "C",
+      "fifa_points": 1293.1,
+      "squad_value_eur_m": 55.9
+    },
+    {
+      "team": "New Zealand",
+      "code": "NZL",
+      "group": "G",
+      "fifa_points": 1275.58,
+      "squad_value_eur_m": 34.35
+    }
+  ]
+}
